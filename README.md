@@ -1,5 +1,4 @@
 <h1><center>Menú</h1<br>
-<body bgcolor="skyblue";">
 <hr>
 <a href="introduccion.html">Introducción</a>
 <br>
@@ -17,4 +16,3 @@
 <br>
 <a href="conclusion.html">Conclusión</a>
 <br>
-</html>
