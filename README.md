@@ -1,5 +1,10 @@
-<h1><center>Menú</h1<br>
-<body bgcolor="skyblue";">
+<html>
+<head>
+    <title>OFI</title>
+</head>
+<body bgcolor="skyblue">
+<center>
+<h1>Menú</h1>
 <hr>
 <a href="introduccion.html">Introducción</a>
 <br>
@@ -9,12 +14,13 @@
 <br>
 <a href="quehacen.html">¿Qué hacen?</a>
 <br>
-<a href="Area Porcina.html">Imágenes de el área porcina</a>
+<a href="Area Porcina.html">Imágenes del área porcina</a>
 <br>
 <a href="Entrevista.html">Entrevistas sobre el área porcina</a>
 <br>
 <a href="Mantenimiento.html">Mantenimiento</a>
 <br>
 <a href="conclusion.html">Conclusión</a>
-<br>
+</center>
+</body>
 </html>
