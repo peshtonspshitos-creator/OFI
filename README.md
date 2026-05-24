@@ -1,4 +1,4 @@
-<h1><center>Menú</h1<br>
+Menú
 <hr>
 <a href="introduccion.html">Introducción</a>
 <br>
