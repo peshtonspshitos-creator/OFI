@@ -1,8 +1,13 @@
 <html>
 <head>
-    <title>OFI</title>
+    <style>
+        body{
+            background-color: skyblue;
+        }
+    </style>
+
 </head>
-<body bgcolor="skyblue">
+<body>
 <center>
 <h1>Menú</h1>
 <hr>
